@@ -1,34 +1,117 @@
-<h1 align="center">Hi, I'm Nicolas Caceres</h1>
-<h3 align="center">Software and Industrial Engineering Student</h3>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=61dafb&text=Nicolas%20Caceres&fontSize=45&fontColor=ffffff&fontAlignY=35"/>
+</div>
 
-<!-- Side GIF -->
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" />
+<h2 align="center">Software and Industrial Engineering Student</h2>
 
-<!-- Profile views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NicolasCacer&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+## 👋 About Me
 
-<!-- About Me -->
-<h2 align="left">About Me</h2>
+I am a software engineer passionate about building efficient systems, solving complex problems, and continuously learning new technologies. My work focuses on data science, artificial intelligence, front and backend development in web and mobile platforms.
 
-<ul>
-  <li>I am currently studying at <strong>Universidad de La Sabana</strong>.</li>
-  <li>How to reach me: <strong>njcaceres04@gmail.com</strong></li>
-  <li>Portfolio: <strong>click here</strong></li>
-</ul>
+## 📫 Contact me
 
-<!-- Connect -->
-<h2 align="left">Connect With Me</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/nicolas-joel-caceres-parra-069460326/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn" 
-         width="40" 
-         height="30"/>
-  </a>
-</p>
+<div style="display: flex; flex-direction: row; gap: 30px; align-items: center; justify-content: center;">
 
-<!-- Tools section -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="mailto:njcaceres04@gmail.com" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+    </a>
+    <span><strong>njcaceres04@gmail.com</strong></span>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://www.linkedin.com/in/nicolas-joel-caceres-parra-069460326/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    </a>
+    <span><strong>Nicolas Caceres</strong></span>
+  </div>
+
+</div>
+
+## 🖥️ Tech Stack
+
+### Hardware & 3D
+
+<div>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://icons.veryicon.com/png/System/Simply%20Styled/Blender.png" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+</div>
+
+### Frontend Development
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"
+/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+</div>
+
+### Backend Development
+
+<div>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-icon-svg-download-png-1174935.png?f=webp" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://lh4.googleusercontent.com/proxy/JNrXGmh7wqXKvM_997irXd_4SZ_jk1Kpsl3iLnKCZKbaso2y34XKMbcWsX514phEFKWmYgw-e9QL0UEA2clKoi0ApxPW87jbw-Wp" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+</div>
+
+### Databases
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+</div>
+
+### Data Science & Machine Learning
+
+<div>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+</div>
+
+### Cloud, Tools & Utilities
+
+<div>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" style="background: transparent; border-radius: 5px; padding: 5px;"/>
+</div>
+
+## 📌 Featured Projects
+
+### **Project 1 – GymCol**
+
+> Mobile Fitness and Nutrition App developed using Expo and React Native
+> [Link](https://github.com/NicolasCacer/proyecto-final-movil/wiki)
+
+### **Project 2 – WheelUS**
+
+> Web Application developed with Next.js and firebase to create a vehicle sharing platform for college students
+> [Link](https://github.com/Jhojan-Jimenez/DeployFE?tab=readme-ov-file#link-depliegue)
+
+### **Project 3 – Operations Planning Dashboard**
+
+> An interactive Streamlit dashboard based on S&OP model to simulate a company production planning process in python
+> [Link](https://github.com/NicolasCacer/gemelo-digital-planeacion?tab=readme-ov-file#deployment-dashboard)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nicolascacer&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=61dafb"/>
+</div>
